@@ -1,0 +1,65 @@
+baseurl = "https://BreakfastEggs.github.io"
+title = "Taisha Ocasio"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "sea"
+  description = "Taisha Ocasio's Portfolio"
+  copyright = "&copy;2020 Taisha Ocasio,"
+  logo = "/img/cropped.png"
+  sidebarAbout = [
+    "I am an illustrator/multimedia artist with dreams of becoming a character designer for video games. I'm obsessed with Nintendo!",
+    "Born in Puerto Rico, raised in New York."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "libraryeggs@gmail.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+
+  [[params.navlinks]]
+  name = "Resume"
+  url = "resume/"
+
+  [[params.navlinks]]
+  name = "Artist Statement"
+  url = "artiststatement/"
+
+  [[params.navlinks]]
+  name = "Contact Me"
+  url = "contact/"
+
+
+  [params.social]
+  email         = "libraryeggs@gmail.com"
+  twitter       = "https://twitter.com/__dbay__"
+  instagram     = "https://www.instagram.com/_.dbay._/"
+  #instagram2     = "https://www.instagram.com/do_b_a_y"
+  youtube       = "https://www.youtube.com/channel/UClwccZu16wcODodvdYKwU6g"
+  #deviantart    = "https://www.deviantart.com/inktory"
+  #teespring     = "https://teespring.com/stores/ye-olde-egg-shoppe"
+  discord       = "https://discord.gg/HdAanBS"
