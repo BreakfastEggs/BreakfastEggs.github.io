@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/uploads/tnb-cover-art-final.png"
 showonlyimage = true
 weight = 0
