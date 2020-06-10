@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/uploads/stop-the-spread.png"
 showonlyimage = true
 weight = 0
