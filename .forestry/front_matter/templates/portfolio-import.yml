@@ -34,3 +34,4 @@ fields:
   description: PUT A URL HERE if no url just art use "/*name
 pages:
 - content/portfolio/selfportrait.md
+- content/portfolio/tnbgaming.md
