@@ -55,7 +55,7 @@ section.background-secondary {
   font-family: "Georgia", "Times New Roman", Times, serif;
 }
 .img-responsive {
-  margin: 0 auto;
+  align-items: flex-end;
 }
 .no-space .box {
   margin: 0 -15px;
@@ -836,7 +836,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  overflow: hidden;
+  overflow: auto;
   text-overflow: ellipsis;
 }
 .box-masonry h4 {
@@ -937,7 +937,7 @@ a:active {
 .box-masonry .box-masonry-image.with-hover-icon:after {
   display: block;
   position: absolute;
-  width: 100%;
+  width: 50%;
   left: 0;
   top: 50%;
   -webkit-transform: translate(0, -50%);
@@ -2122,7 +2122,7 @@ a.list-group-item.active > .badge,
 @font-face {
   font-family: 'LemonMilk';
   font-style: normal;
-  font-weight: ;
+  font-weight: 500;
   font-display: auto;
   src: url('../webfonts/LEMONMILK-Regular.eot'),
   url('../webfonts/LEMONMILK-Regular.woff2') format('woff2'), /* Super Modern Browsers */
