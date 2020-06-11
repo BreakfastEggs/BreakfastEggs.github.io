@@ -33,6 +33,7 @@ fields:
   label: URL
   description: PUT A URL HERE if no url just art use "/*name
 pages:
+- content/portfolio/LONGBOIEEVEES.md
 - content/portfolio/PAVTclassof2020.md
 - content/portfolio/RockenKrak-On.md
 - content/portfolio/STOPTHESPREADCOVID.md
