@@ -7,7 +7,7 @@ title = "About me"
 
 ##### Born in Puerto Rico, raised in New York.
 
-  
+__
 
 I'm a Hispanic artist, trying to make a living out of art. I love to play video games that influence adventure and creativity, creating characters with some unique designs. I love to base my designs off of mythical creatures, keeping my characters diverse and exciting.
 
