@@ -1,9 +1,13 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = 2016-11-05T15:35:33Z
 title = "About me"
-+++
 
- I'm a Hispanic artist, trying to make a living out of art. I love to play video games that influence adventure and creativity, creating characters with some unique designs. I love to base my designs off of mythical creatures, keeping my characters diverse and exciting. 
++++
+###### I am an illustrator/multimedia artist with dreams of becoming a character designer for video games. I'm obsessed with Nintendo!
+
+###### Born in Puerto Rico, raised in New York.
+
+I'm a Hispanic artist, trying to make a living out of art. I love to play video games that influence adventure and creativity, creating characters with some unique designs. I love to base my designs off of mythical creatures, keeping my characters diverse and exciting.
 
 I was raised in Brooklyn, New York, In a small town where it was calm and peaceful. New York is well-known for its diversity and creativity, artwork all over its walls. Brooklyn is one of the many hot spots for artist murals, and I love to show this kind of diversity and creativity in my work.
 
