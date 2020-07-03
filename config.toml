@@ -13,9 +13,7 @@ googleAnalytics = "UA-170097794-1"
   description = "Taisha Ocasio's Portfolio"
   copyright = "&copy;2020 Taisha Ocasio,"
   logo = "/img/cropped.png"
-  sidebarAbout = [ "    ",
-  "    "
-
+  sidebarAbout = [ "    "
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
