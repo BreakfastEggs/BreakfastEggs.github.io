@@ -1,8 +1,8 @@
 +++
 draft = true
-image = "/uploads/king-commission.png"
+image = "/uploads/charas-9.png"
 showonlyimage = true
-weight = 0
-xurl = "/uploads/king-commission.png"
+weight = nil
+xurl = ""
 
 +++
