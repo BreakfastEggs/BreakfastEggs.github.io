@@ -1,8 +1,7 @@
 +++
-draft = true
 image = "/uploads/lady-beth-and-masu-abe-reference.png"
 showonlyimage = true
-weight = 0
+weight = nil
 xurl = "/uploads/lady-beth-and-masu-abe-reference.png"
 
 +++
