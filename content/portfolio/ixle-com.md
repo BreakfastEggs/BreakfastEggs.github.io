@@ -1,8 +1,8 @@
 +++
 draft = true
-image = "/uploads/ixle-commission.png"
+image = "/uploads/giga-eebee2.png"
 showonlyimage = true
-weight = 0
+weight = nil
 xurl = "/uploads/ixle-commission.png"
 
 +++
