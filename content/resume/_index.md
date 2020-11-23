@@ -1,6 +1,6 @@
 +++
-date = 2016-11-05T15:35:33Z
+date = ""
 title = "Resume"
 
 +++
-![](/uploads/web-taisha-ocasio-resume.png)
+![](/uploads/yuck2.jpg)
