@@ -31,6 +31,7 @@ fields:
   description: PUT A URL HERE if no url just art use /uploads/*image.png
 pages:
 - content/portfolio/Abaddon Reference.md
+- content/portfolio/Angry Secretary.md
 - content/portfolio/Bowl Observational Drawing.md
 - content/portfolio/Candle Still Life.md
 - content/portfolio/Coral Cavalry Logo.md
@@ -38,6 +39,7 @@ pages:
 - content/portfolio/Egg Sona.md
 - content/portfolio/Eggs Still Life.md
 - content/portfolio/Gem Stone.md
+- content/portfolio/Goretober.md
 - content/portfolio/Grim Reaper Logos.md
 - content/portfolio/Grim Reaper Muchi.md
 - content/portfolio/Masu Fire Nymph.md
