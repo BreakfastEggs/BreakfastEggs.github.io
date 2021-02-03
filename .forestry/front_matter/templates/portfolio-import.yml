@@ -30,17 +30,5 @@ fields:
   label: URL
   description: PUT A URL HERE if no url just art use /uploads/*image.png
 pages:
-- content/portfolio/Bowl & Mug - Still Life.md
-- content/portfolio/Cody Icon.md
-- content/portfolio/Coral Cavalry Logo.md
-- content/portfolio/Galaxy Self Portrait.md
-- content/portfolio/LONGBOIEEVEES.md
-- content/portfolio/Mug & Eggs - Still Life.md
-- content/portfolio/PAVTclassof2020.md
 - content/portfolio/beth-masu-ref.md
-- content/portfolio/ixle-com.md
-- content/portfolio/king-commission.md
-- content/portfolio/lotusinkcommission.md
-- content/portfolio/newspaper.md
-- content/portfolio/order-of-small-frys.md
 - content/resume/OCASIO_Resume.md
