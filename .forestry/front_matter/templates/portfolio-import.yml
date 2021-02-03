@@ -30,6 +30,7 @@ fields:
   label: URL
   description: PUT A URL HERE if no url just art use /uploads/*image.png
 pages:
+- content/portfolio/Abaddon Reference.md
 - content/portfolio/Bowl Observational Drawing.md
 - content/portfolio/Candle Still Life.md
 - content/portfolio/Coral Cavalry Logo.md
