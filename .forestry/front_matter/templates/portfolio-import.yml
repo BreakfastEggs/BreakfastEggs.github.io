@@ -30,4 +30,5 @@ fields:
   label: URL
   description: PUT A URL HERE if no url just art use /uploads/*image.png
 pages:
+- content/portfolio/Grim Reaper Muchi.md
 - content/resume/OCASIO_Resume.md
