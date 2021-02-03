@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/uploads/blehh.png"
 showonlyimage = true
 weight = 0

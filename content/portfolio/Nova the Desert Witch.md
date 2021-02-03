@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/uploads/desert-witch.png"
 showonlyimage = true
 weight = 0
